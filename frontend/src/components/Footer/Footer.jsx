@@ -7,7 +7,10 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" />
-                <p>In the case of an employee claiming tampering, digital signatures backed by hashing and PKI provide undeniable evidence. The hash guarantees document integrity, while PKI ensures authenticity by binding the public key to the employee’s verified identity. Together, they form a powerful framework that multinational companies use to secure contracts, policies, and financial documents against fraud and manipulation.</p>
+                <p>Welcome to <strong>FoodieHub</strong> – your one-stop destination for fresh, delicious, and hygienic meals.  
+  We bring you a wide variety of cuisines, from healthy salads and desserts to pastas, rolls, and more.  
+  Our mission is to make food ordering simple, fast, and enjoyable.  
+  Taste the joy of dining, anytime and anywhere!</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
                     <img src={assets.twitter_icon} alt="" />
